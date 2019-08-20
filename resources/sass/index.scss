@@ -10,3 +10,25 @@
 .Product {
     margin-bottom: 20px;
 }
+
+.bg-vicent {
+    background-color: #20232a !important;
+    border-bottom: 1px solid #4cff2b;
+}
+
+.bg-vicent a {
+    color: #fff;
+    text-decoration: none;
+}
+
+a.nav-link {
+    font-size: 18px;
+}
+
+
+.App {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}

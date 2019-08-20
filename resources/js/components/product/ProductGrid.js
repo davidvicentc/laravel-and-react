@@ -15,6 +15,7 @@ export default function ProductGrid({
                         product={product}
                         handleDeleteProduct={handleDeleteProduct}
                         handleUpdateProduct={handleUpdateProduct}
+                        grid={true}
                     />
                 </Col>
             ))}
